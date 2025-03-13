@@ -1,7 +1,7 @@
 /*!
-* Start Bootstrap - Agency v7.0.12 (https://startbootstrap.com/theme/agency)
+* Start Bootstrap - WijngoedStorminck v0.0.1 (undefined)
 * Copyright 2013-2025 Start Bootstrap
-* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-agency/blob/master/LICENSE)
+* Licensed under MIT (https://github.com/StartBootstrap/wijngoed-storminck/blob/master/LICENSE)
 */
 //
 // Scripts
